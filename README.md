@@ -4,4 +4,4 @@ I sit at the intersection of **Digital Analytics** and **Frontend Engineering**.
 
 I build tools that bridge the gap between marketing data and technical implementation, helping teams audit, visualize, and trust their tracking setups.
 
-👉 **View my Portfolio:** [data.martenlange.com](https://data.martenlange.com)
+**View my Portfolio:** [data.martenlange.com](https://data.martenlange.com)
